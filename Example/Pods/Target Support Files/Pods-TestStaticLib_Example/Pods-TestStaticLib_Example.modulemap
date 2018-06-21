@@ -1,0 +1,6 @@
+framework module Pods_TestStaticLib_Example {
+  umbrella header "Pods-TestStaticLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

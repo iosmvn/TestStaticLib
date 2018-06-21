@@ -1,0 +1,22 @@
+{
+  "name": "TestStaticLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestStaticLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sundl1988@163.com/TestStaticLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sundl1988@163.com": "sundl1988@163.com"
+  },
+  "source": {
+    "git": "https://github.com/sundl1988@163.com/TestStaticLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestStaticLib/Classes/**/*"
+}
