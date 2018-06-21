@@ -10,14 +10,14 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - TestStaticLib (0.1.0)
+  - TestStaticLib2018 (0.1.0)
 
 DEPENDENCIES:
   - Expecta
   - "Expecta+Snapshots"
   - FBSnapshotTestCase
   - Specta
-  - TestStaticLib (from `../`)
+  - TestStaticLib2018 (from `../`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -27,7 +27,7 @@ SPEC REPOS:
     - Specta
 
 EXTERNAL SOURCES:
-  TestStaticLib:
+  TestStaticLib2018:
     :path: "../"
 
 SPEC CHECKSUMS:
@@ -35,8 +35,8 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  TestStaticLib: 0820cc25394fabfff03fd49bb4395886fa2009a6
+  TestStaticLib2018: b2272d33ee81ff699fa1ff87847fc27989b47ea4
 
-PODFILE CHECKSUM: 262b81e519df93bbf0caf95b9cc1ad8d018253f7
+PODFILE CHECKSUM: 85d71a2e83b582f68e9e53444a834ce42bba80bd
 
 COCOAPODS: 1.5.3

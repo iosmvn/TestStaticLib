@@ -19,12 +19,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-TestStaticLib_Example.xcscheme</key>
+		<key>Pods-TestStaticLib2018_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-TestStaticLib_Tests.xcscheme</key>
+		<key>Pods-TestStaticLib2018_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -34,7 +34,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>TestStaticLib.xcscheme</key>
+		<key>TestStaticLib2018.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

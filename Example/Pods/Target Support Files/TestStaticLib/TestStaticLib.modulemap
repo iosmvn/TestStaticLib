@@ -1,6 +1,0 @@
-framework module TestStaticLib {
-  umbrella header "TestStaticLib-umbrella.h"
-
-  export *
-  module * { export * }
-}

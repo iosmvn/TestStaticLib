@@ -1,9 +1,9 @@
 use_frameworks!
 
-target 'TestStaticLib_Example' do
-  pod 'TestStaticLib', :path => '../'
+target 'TestStaticLib2018_Example' do
+  pod 'TestStaticLib2018', :path => '../'
 
-  target 'TestStaticLib_Tests' do
+  target 'TestStaticLib2018_Tests' do
     inherit! :search_paths
 
     pod 'Specta'
