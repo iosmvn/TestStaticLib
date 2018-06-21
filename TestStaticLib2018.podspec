@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestStaticLib2018'
-  s.version          = '0.0.3'
+  s.version          = '0.0.4'
   s.summary          = 'Test Static Lib.2018'
 
 # This description is used to generate tags and improve search results.
