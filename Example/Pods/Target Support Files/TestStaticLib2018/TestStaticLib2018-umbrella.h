@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "TestClz.h"
 
 FOUNDATION_EXPORT double TestStaticLib2018VersionNumber;
 FOUNDATION_EXPORT const unsigned char TestStaticLib2018VersionString[];

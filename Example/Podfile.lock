@@ -10,7 +10,7 @@ PODS:
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
   - Specta (1.0.7)
-  - TestStaticLib2018 (0.1.0)
+  - TestStaticLib2018 (0.0.5)
 
 DEPENDENCIES:
   - Expecta
@@ -35,7 +35,7 @@ SPEC CHECKSUMS:
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
-  TestStaticLib2018: b2272d33ee81ff699fa1ff87847fc27989b47ea4
+  TestStaticLib2018: 7a55283523139be6d6f6e04a2c73f4de804d43d4
 
 PODFILE CHECKSUM: 85d71a2e83b582f68e9e53444a834ce42bba80bd
 
